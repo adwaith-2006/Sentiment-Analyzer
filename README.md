@@ -35,6 +35,7 @@ Install all dependencies with:
 
 ```bash
 pip install torch transformers datasets pandas numpy scikit-learn matplotlib seaborn gradio evaluate
+```
 
 ## How to Run
 
